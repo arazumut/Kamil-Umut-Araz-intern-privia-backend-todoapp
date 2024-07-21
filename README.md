@@ -5,7 +5,6 @@ Golang (ya da Go), Google tarafından geliştirilen açık kaynaklı, statik tip
 Proje Kurulumu
 Öncelikle, projemiz için bir dizin oluşturuyor ve bu dizin içinde çalışıyoruz. Golang modülünü başlatarak projeye ait bağımlılıkları yönetebilir hale geliyoruz. go mod init komutu ile proje dizinimizi bir Go modülü olarak başlatıyoruz.
 
-
 Ana Uygulama Dosyasının Oluşturulması
 Ana uygulama dosyamız main.go ismiyle oluşturulacak. Bu dosyada temel HTTP işlemlerini gerçekleştirecek fonksiyonlar ve veri yapıları tanımlanacak. main.go dosyası, API'nin tüm işlevselliğini içerecektir.
 
