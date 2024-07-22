@@ -1,5 +1,5 @@
 Golang ile RESTful Todo List API'si
-Giriş
+
 Golang (ya da Go), Google tarafından geliştirilen açık kaynaklı, statik tipli bir programlama dilidir. Golang, özellikle yüksek performanslı ve ölçeklenebilir web uygulamaları geliştirmek için tercih edilir. Bu makalede, Golang kullanarak basit bir RESTful Todo List API'si nasıl oluşturulur adım adım anlatılacaktır.
 
 Proje Kurulumu
@@ -32,5 +32,4 @@ Geliştirilen bu fonksiyonlar, bir HTTP router kullanarak HTTP istekleri ile ili
 
 Uygulama, 8080 portunda dinlemeye başlar ve belirtilen URL'lere gelen HTTP isteklerini ilgili fonksiyonlara yönlendirir. Bu sayede, istemciler belirtilen URL'ler üzerinden Todo List API'si ile etkileşime geçebilir.
 
-Sonuç
 Bu makalede, Golang kullanarak basit bir RESTful Todo List API'si oluşturmanın temelleri anlatılmıştır. Proje, Golang'ın esnekliği ve performansı ile birlikte gorilla/mux kütüphanesinin gücünü kullanarak temel CRUD işlemlerini gerçekleştiren bir API sunmaktadır. Bu temel yapı, daha gelişmiş özellikler eklemek için genişletilebilir ve ölçeklenebilir bir yapıya sahiptir. Authentication, validation ve error handling gibi konuları inceleyerek API'nizi daha güvenli ve kullanıcı dostu hale getirebilirsiniz.
