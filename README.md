@@ -1,3 +1,7 @@
+ <a href="https://golang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
+    </a>
+    <br>
 Golang ile RESTful Todo List API'si
 
 Golang (ya da Go), Google tarafından geliştirilen açık kaynaklı, statik tipli bir programlama dilidir. Golang, özellikle yüksek performanslı ve ölçeklenebilir web uygulamaları geliştirmek için tercih edilir. Bu makalede, Golang kullanarak basit bir RESTful Todo List API'si nasıl oluşturulur adım adım anlatılacaktır.
